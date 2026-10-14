@@ -1,0 +1,14 @@
+{
+  "name": "margdarshak",
+  "version": "1.0.0",
+  "description": "A focused, human-crafted career guidance website for first-generation students in India",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2"
+  }
+}

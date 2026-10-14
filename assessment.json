@@ -1,0 +1,97 @@
+{
+  "quickQuestions": [
+    {
+      "id": "q1_work_nature",
+      "text": "What type of day-to-day work energizes you the most?",
+      "hindi": "दिन-प्रतिदिन के किस तरह के काम में आपका मन सबसे अधिक लगता है?",
+      "options": [
+        { "id": "tech_code", "label": "Working on computers, coding, software, or technical machines", "tags": ["coding", "computers", "software", "technical", "machines"] },
+        { "id": "gov_public", "label": "Public service, maintaining law & order, administration, or helping people directly", "tags": ["sarkari", "govt", "administration", "public", "police", "civil"] },
+        { "id": "biz_finance", "label": "Business management, accounting, numbers, marketing, or starting a company", "tags": ["finance", "business", "accounting", "marketing", "management", "startup"] },
+        { "id": "health_bio", "label": "Healthcare, treating patients, biology, pharma, or nursing care", "tags": ["healthcare", "biology", "hospital", "patient care", "medicine"] },
+        { "id": "creative_media", "label": "Creative design, drawing, media, content writing, storytelling, or law & argumentation", "tags": ["design", "media", "writing", "law", "creativity"] }
+      ]
+    },
+    {
+      "id": "q2_risk_timeline",
+      "text": "What is your primary priority regarding career start timeline & financial security?",
+      "hindi": "करियर शुरू करने की समय-सीमा और वित्तीय सुरक्षा के मामले में आपकी पहली प्राथमिकता क्या है?",
+      "options": [
+        { "id": "fast_earning", "label": "Fast employment (within 6 to 18 months) to support family finances", "tags": ["fast employment", "quick earning", "pocket-friendly", "vocational"] },
+        { "id": "balanced_growth", "label": "Willing to spend 3-4 years in college for steady middle-class corporate or service jobs", "tags": ["steady", "corporate", "degree", "growth"] },
+        { "id": "long_prestige", "label": "Ready for high-risk, intense multi-year preparation for high prestige (Civil Services, IIM, MD)", "tags": ["extreme competition", "high prestige", "leadership", "officer"] }
+      ]
+    },
+    {
+      "id": "q3_environment",
+      "text": "Where would you feel most comfortable working in the long run?",
+      "hindi": "दीर्घकालिक रूप से आप किस कार्य-वातावरण में सबसे अधिक सहज रहेंगे?",
+      "options": [
+        { "id": "office_desk", "label": "In an office, lab, or computer workstation (predictable desk hours)", "tags": ["desk", "office", "coding", "clerical", "it"] },
+        { "id": "field_active", "label": "Out on the field, visiting sites, uniform duty, or active travel", "tags": ["field", "uniform", "travel", "physical", "adventure"] },
+        { "id": "classroom_clinic", "label": "In a hospital, clinic, school, or university mentoring others", "tags": ["teaching", "healthcare", "clinic", "school", "mentoring"] }
+      ]
+    },
+    {
+      "id": "q4_maths_logic",
+      "text": "How do you feel about complex mathematics and analytical problem-solving?",
+      "hindi": "जटिल गणित और विश्लेषणात्मक समस्याओं (Maths/Reasoning) के प्रति आपका क्या दृष्टिकोण है?",
+      "options": [
+        { "id": "love_maths", "label": "Enjoy mathematics, quantitative puzzles, and logical problem solving", "tags": ["maths", "arithmetic", "reasoning", "quantitative", "coding"] },
+        { "id": "prefer_verbal", "label": "Prefer reading, theoretical concepts, language, writing, and social awareness", "tags": ["english", "reading", "theory", "general studies", "polity"] },
+        { "id": "practical_hands", "label": "Prefer direct hands-on practical tools and real-life tasks over textbook maths", "tags": ["hands-on", "practical", "tools", "trade"] }
+      ]
+    },
+    {
+      "id": "q5_govt_vs_private",
+      "text": "What is your honest preference between Government stability and Private sector growth?",
+      "hindi": "सरकारी नौकरी की स्थिरता और निजी क्षेत्र की आय वृद्धि के बीच आपकी वास्तविक पसंद क्या है?",
+      "options": [
+        { "id": "govt_stability", "label": "Prefer Government stability, job security, and social prestige (7th Pay scales)", "preference": "govt" },
+        { "id": "private_high_ceiling", "label": "Prefer Private sector or startups with merit-based fast salary jumps", "preference": "private" },
+        { "id": "open_to_both", "label": "Equally open to whichever provides viable dignity and financial return", "preference": "both" }
+      ]
+    },
+    {
+      "id": "q6_family_relocation",
+      "text": "Are you willing to relocate away from your home district/state for work or study?",
+      "hindi": "क्या आप पढ़ाई या नौकरी के लिए अपने गृह जिले/राज्य से बाहर जाने के लिए तैयार हैं?",
+      "options": [
+        { "id": "pan_india", "label": "Yes, anywhere in India or abroad for the right opportunity", "relocation": "anywhere" },
+        { "id": "state_only", "label": "Prefer staying within my home state or nearby cities", "relocation": "state" },
+        { "id": "home_district", "label": "Need to stay close to home due to family responsibilities", "relocation": "home" }
+      ]
+    }
+  ],
+  "counselorAdvice": {
+    "talkingToParents": [
+      {
+        "title": "When parents push only for Government Exams (IAS/SSC/Railway):",
+        "hindiTitle": "जब माता-पिता केवल सरकारी नौकरी (आईएएस/एसएससी) का दबाव बनाएं:",
+        "advice": "Do not argue or reject their wish. Acknowledge that they want lifelong job security and safety for you. Show them the applicant numbers from the PDF (e.g. 10–30 lakh applicants for a few thousand seats) and propose a dual approach: 'Papa/Mummy, I will prepare honestly for the government exam for 12 months, but I will simultaneously build a backup degree/skill (like BCA or Tally or Data Analyst). That way, our family is protected no matter what.'"
+      },
+      {
+        "title": "When budget is tight and private college fees seem impossible:",
+        "hindiTitle": "जब घर का बजट सीमित हो और प्राइवेट कॉलेज की फीस असंभव लगे:",
+        "advice": "Point out central and state government university routes (CUET UG, IIT/NIT government fees, polytechnics, state ITIs) where annual fees are under ₹10,000–₹40,000. Show them the scholarship schemes (NSP, Post-Matric, PM-USP) and clarify that a high college fee does not guarantee placement."
+      },
+      {
+        "title": "Explaining modern emerging fields (UI/UX, Data Science, Digital Marketing):",
+        "hindiTitle": "माता-पिता को नए क्षेत्रों (UI/UX, डेटा साइंस) के बारे में कैसे समझाएं:",
+        "advice": "Use familiar comparisons: Explain UI/UX as 'designing the screen of PhonePe or railway reservation apps so people find them easy to use.' Show real company job postings or entry salaries from reputable portals so it feels tangible and trustworthy, not imaginary."
+      }
+    ],
+    "handlingPressure": [
+      {
+        "title": "Dealing with the 'Multi-Year Drop' trap in India:",
+        "hindiTitle": "'मल्टी-इयर ड्रॉप' (सालों साल तैयारी) के चक्रव्यूह से कैसे बचें:",
+        "advice": "The PDF clearly emphasizes having a Plan B. Never spend more than 1–2 dedicated drop years without an enrolled graduation program, skill certification, or part-time earning. A resume with continuous learning and small projects will always beat a multi-year blank study gap."
+      },
+      {
+        "title": "Overcoming failure in high-stakes cut-offs:",
+        "hindiTitle": "परीक्षा में असफलता या कट-ऑफ न मिलने पर मानसिक मजबूती:",
+        "advice": "Remember that an exam with a 0.1% selection rate is a test of elimination, not a test of your human worth or capability. The syllabus you mastered (Quantitative Aptitude, Reasoning, General Awareness) directly powers 5 to 6 other parallel exam and corporate opportunities."
+      }
+    ]
+  }
+}

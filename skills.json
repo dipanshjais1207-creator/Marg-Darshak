@@ -1,0 +1,156 @@
+{
+ "_default": {
+  "title": "General career skills",
+  "required": [
+   "Communication",
+   "Time management",
+   "Basic computer skills",
+   "Problem solving",
+   "English reading & writing",
+   "Teamwork"
+  ]
+ },
+ "bca-bsc-cs": {
+  "title": "Software Developer",
+  "required": [
+   "Programming (Python / Java)",
+   "Data structures",
+   "Web development",
+   "Databases (SQL)",
+   "Git & GitHub",
+   "Problem solving"
+  ]
+ },
+ "tech-digital-skills": {
+  "title": "Digital & Tech Skills",
+  "required": [
+   "Programming basics",
+   "Data analysis (Excel / SQL)",
+   "Digital marketing basics",
+   "Communication",
+   "Portfolio projects",
+   "Problem solving"
+  ]
+ },
+ "btech-engineering": {
+  "title": "Engineer (B.Tech)",
+  "required": [
+   "Maths (calculus, algebra)",
+   "Physics concepts",
+   "Programming basics",
+   "Logical reasoning",
+   "Technical drawing / design",
+   "Teamwork"
+  ]
+ },
+ "polytechnic-diploma": {
+  "title": "Diploma Engineer",
+  "required": [
+   "Maths & science basics",
+   "Technical drawing",
+   "Workshop / lab practice",
+   "Computer basics",
+   "Safety practices",
+   "Teamwork"
+  ]
+ },
+ "ssc-cgl": {
+  "title": "SSC CGL aspirant",
+  "required": [
+   "Quantitative aptitude",
+   "Reasoning",
+   "English comprehension",
+   "General awareness",
+   "Previous-year paper practice",
+   "Time management"
+  ]
+ },
+ "bank-po": {
+  "title": "Bank PO aspirant",
+  "required": [
+   "Quantitative aptitude",
+   "Reasoning",
+   "English language",
+   "Banking & current affairs",
+   "Mock-test practice",
+   "Time management"
+  ]
+ },
+ "upsc-civil-services": {
+  "title": "UPSC aspirant",
+  "required": [
+   "Answer writing",
+   "NCERT foundation reading",
+   "Current affairs",
+   "Optional subject depth",
+   "Essay writing",
+   "Consistent revision"
+  ]
+ },
+ "chartered-accountant-ca": {
+  "title": "Chartered Accountant",
+  "required": [
+   "Accounting basics",
+   "Maths & quantitative reasoning",
+   "Business law basics",
+   "Excel / Tally",
+   "Self-study discipline",
+   "English communication"
+  ]
+ },
+ "mbbs-doctor": {
+  "title": "Doctor (MBBS)",
+  "required": [
+   "Biology (NCERT)",
+   "Chemistry",
+   "Physics",
+   "NEET mock practice",
+   "Patience & empathy",
+   "Self-study discipline"
+  ]
+ },
+ "design-bdes": {
+  "title": "Designer",
+  "required": [
+   "Sketching & visual thinking",
+   "Design software basics",
+   "Creativity portfolio",
+   "Colour & typography",
+   "Communication",
+   "Observation skills"
+  ]
+ },
+ "journalism-mass-comm": {
+  "title": "Journalist / Media",
+  "required": [
+   "Writing",
+   "Current affairs",
+   "Interviewing",
+   "Basic photo / video editing",
+   "Social media skills",
+   "Ethics & fact-checking"
+  ]
+ },
+ "bcom-bba": {
+  "title": "Commerce / Business",
+  "required": [
+   "Accounting basics",
+   "Excel",
+   "Business communication",
+   "Maths basics",
+   "Tally / GST basics",
+   "Teamwork"
+  ]
+ },
+ "entrepreneurship-startups": {
+  "title": "Entrepreneur",
+  "required": [
+   "Problem finding",
+   "Basic finance",
+   "Sales & communication",
+   "Digital skills",
+   "Networking",
+   "Resilience"
+  ]
+ }
+}

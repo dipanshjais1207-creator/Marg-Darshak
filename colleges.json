@@ -1,0 +1,404 @@
+{
+ "states": [
+  "Bihar",
+  "Delhi",
+  "Jharkhand",
+  "Karnataka",
+  "Maharashtra",
+  "Puducherry",
+  "Rajasthan",
+  "Tamil Nadu",
+  "Telangana",
+  "Uttar Pradesh",
+  "West Bengal"
+ ],
+ "courses": [
+  "B.Tech",
+  "B.Tech (Lateral Entry)",
+  "Diploma (Polytechnic)",
+  "MBBS",
+  "BA / B.Com / B.Sc"
+ ],
+ "colleges": [
+  {
+   "name": "Government Polytechnic, Patna",
+   "state": "Bihar",
+   "city": "Patna",
+   "type": "State Govt",
+   "courses": [
+    "Diploma (Polytechnic)"
+   ],
+   "fees": "₹10,000 – ₹40,000 / yr (govt polytechnic range)",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "Admission via DCECE counselling"
+  },
+  {
+   "name": "Government Polytechnic, Gaya",
+   "state": "Bihar",
+   "city": "Gaya",
+   "type": "State Govt",
+   "courses": [
+    "Diploma (Polytechnic)"
+   ],
+   "fees": "₹10,000 – ₹40,000 / yr (govt polytechnic range)",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "Admission via DCECE counselling"
+  },
+  {
+   "name": "Government Polytechnic, Muzaffarpur",
+   "state": "Bihar",
+   "city": "Muzaffarpur",
+   "type": "State Govt",
+   "courses": [
+    "Diploma (Polytechnic)"
+   ],
+   "fees": "₹10,000 – ₹40,000 / yr (govt polytechnic range)",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "Admission via DCECE counselling"
+  },
+  {
+   "name": "Government Engineering College, Bhagalpur",
+   "state": "Bihar",
+   "city": "Bhagalpur",
+   "type": "State Govt",
+   "courses": [
+    "B.Tech",
+    "B.Tech (Lateral Entry)"
+   ],
+   "fees": "Check official site",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "B.Tech via UGEAC / lateral entry via DCECE (LE)"
+  },
+  {
+   "name": "Government Engineering College, Gaya",
+   "state": "Bihar",
+   "city": "Gaya",
+   "type": "State Govt",
+   "courses": [
+    "B.Tech",
+    "B.Tech (Lateral Entry)"
+   ],
+   "fees": "Check official site",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "B.Tech via UGEAC / lateral entry via DCECE (LE)"
+  },
+  {
+   "name": "Muzaffarpur Institute of Technology",
+   "state": "Bihar",
+   "city": "Muzaffarpur",
+   "type": "State Govt",
+   "courses": [
+    "B.Tech",
+    "B.Tech (Lateral Entry)"
+   ],
+   "fees": "Check official site",
+   "link": "https://bceceboard.bihar.gov.in",
+   "note": "B.Tech via UGEAC / lateral entry via DCECE (LE)"
+  },
+  {
+   "name": "NIT Patna",
+   "state": "Bihar",
+   "city": "Patna",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.nitp.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "IIT Patna",
+   "state": "Bihar",
+   "city": "Patna",
+   "type": "Central (IIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹2.2 lakh / yr (approx)",
+   "link": "https://www.iitp.ac.in",
+   "note": "JEE Advanced + JoSAA counselling"
+  },
+  {
+   "name": "AIIMS Patna",
+   "state": "Bihar",
+   "city": "Patna",
+   "type": "Central Govt",
+   "courses": [
+    "MBBS"
+   ],
+   "fees": "Under ₹10,000 / yr (approx)",
+   "link": "https://www.aiimspatna.edu.in",
+   "note": "NEET UG + MCC counselling"
+  },
+  {
+   "name": "Patna University",
+   "state": "Bihar",
+   "city": "Patna",
+   "type": "State University",
+   "courses": [
+    "BA / B.Com / B.Sc"
+   ],
+   "fees": "Low (state university fees)",
+   "link": "https://www.patnauniversity.ac.in",
+   "note": "Check the university's admission notice"
+  },
+  {
+   "name": "Government Polytechnics (UP)",
+   "state": "Uttar Pradesh",
+   "city": "Statewide",
+   "type": "State Govt",
+   "courses": [
+    "Diploma (Polytechnic)"
+   ],
+   "fees": "₹10,000 – ₹40,000 / yr (govt polytechnic range)",
+   "link": "https://jeecup.admissions.nic.in",
+   "note": "Admission via JEECUP"
+  },
+  {
+   "name": "MNNIT Allahabad",
+   "state": "Uttar Pradesh",
+   "city": "Prayagraj",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.mnnit.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "IIT Kanpur",
+   "state": "Uttar Pradesh",
+   "city": "Kanpur",
+   "type": "Central (IIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹2.2 lakh / yr (approx)",
+   "link": "https://www.iitk.ac.in",
+   "note": "JEE Advanced + JoSAA counselling"
+  },
+  {
+   "name": "Banaras Hindu University (BHU)",
+   "state": "Uttar Pradesh",
+   "city": "Varanasi",
+   "type": "Central University",
+   "courses": [
+    "B.Tech",
+    "MBBS",
+    "BA / B.Com / B.Sc"
+   ],
+   "fees": "Varies by course",
+   "link": "https://www.bhu.ac.in",
+   "note": "CUET / JEE / NEET depending on course"
+  },
+  {
+   "name": "King George's Medical University",
+   "state": "Uttar Pradesh",
+   "city": "Lucknow",
+   "type": "State University",
+   "courses": [
+    "MBBS"
+   ],
+   "fees": "Check official site",
+   "link": "https://www.kgmu.org",
+   "note": "NEET UG + state counselling"
+  },
+  {
+   "name": "Delhi University (colleges)",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "Central University",
+   "courses": [
+    "BA / B.Com / B.Sc"
+   ],
+   "fees": "Low (central university fees)",
+   "link": "https://www.du.ac.in",
+   "note": "CUET UG + CSAS admission"
+  },
+  {
+   "name": "Delhi Technological University",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "State University",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "Check official site",
+   "link": "https://www.dtu.ac.in",
+   "note": "JEE Main + JAC Delhi counselling"
+  },
+  {
+   "name": "NSUT Delhi",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "State University",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "Check official site",
+   "link": "https://www.nsut.ac.in",
+   "note": "JEE Main + JAC Delhi counselling"
+  },
+  {
+   "name": "IIT Delhi",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "Central (IIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹2.2 lakh / yr (approx)",
+   "link": "https://www.iitd.ac.in",
+   "note": "JEE Advanced + JoSAA counselling"
+  },
+  {
+   "name": "AIIMS New Delhi",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "Central Govt",
+   "courses": [
+    "MBBS"
+   ],
+   "fees": "Under ₹10,000 / yr (approx)",
+   "link": "https://www.aiims.edu",
+   "note": "NEET UG + MCC counselling"
+  },
+  {
+   "name": "Jamia Millia Islamia",
+   "state": "Delhi",
+   "city": "New Delhi",
+   "type": "Central University",
+   "courses": [
+    "B.Tech",
+    "BA / B.Com / B.Sc"
+   ],
+   "fees": "Varies by course",
+   "link": "https://www.jmi.ac.in",
+   "note": "CUET / entrance as notified"
+  },
+  {
+   "name": "IIT Bombay",
+   "state": "Maharashtra",
+   "city": "Mumbai",
+   "type": "Central (IIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹2.2 lakh / yr (approx)",
+   "link": "https://www.iitb.ac.in",
+   "note": "JEE Advanced + JoSAA counselling"
+  },
+  {
+   "name": "VJTI Mumbai",
+   "state": "Maharashtra",
+   "city": "Mumbai",
+   "type": "State Govt",
+   "courses": [
+    "B.Tech",
+    "Diploma (Polytechnic)"
+   ],
+   "fees": "Check official site",
+   "link": "https://www.vjti.ac.in",
+   "note": "MHT-CET / state CAP counselling"
+  },
+  {
+   "name": "NIT Karnataka (Surathkal)",
+   "state": "Karnataka",
+   "city": "Mangaluru",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.nitk.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "NIT Tiruchirappalli",
+   "state": "Tamil Nadu",
+   "city": "Tiruchirappalli",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.nitt.edu",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "IIT Madras",
+   "state": "Tamil Nadu",
+   "city": "Chennai",
+   "type": "Central (IIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹2.2 lakh / yr (approx)",
+   "link": "https://www.iitm.ac.in",
+   "note": "JEE Advanced + JoSAA counselling"
+  },
+  {
+   "name": "JIPMER",
+   "state": "Puducherry",
+   "city": "Puducherry",
+   "type": "Central Govt",
+   "courses": [
+    "MBBS"
+   ],
+   "fees": "Under ₹10,000 / yr (approx)",
+   "link": "https://www.jipmer.edu.in",
+   "note": "NEET UG counselling"
+  },
+  {
+   "name": "NIT Warangal",
+   "state": "Telangana",
+   "city": "Warangal",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.nitw.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "Jadavpur University",
+   "state": "West Bengal",
+   "city": "Kolkata",
+   "type": "State University",
+   "courses": [
+    "B.Tech",
+    "BA / B.Com / B.Sc"
+   ],
+   "fees": "Low (state university fees)",
+   "link": "https://jadavpuruniversity.in",
+   "note": "WBJEE / university admission process"
+  },
+  {
+   "name": "NIT Jamshedpur",
+   "state": "Jharkhand",
+   "city": "Jamshedpur",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.nitjsr.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  },
+  {
+   "name": "MNIT Jaipur",
+   "state": "Rajasthan",
+   "city": "Jaipur",
+   "type": "Central (NIT)",
+   "courses": [
+    "B.Tech"
+   ],
+   "fees": "~₹1.4 lakh / yr (approx)",
+   "link": "https://www.mnit.ac.in",
+   "note": "JEE Main + JoSAA counselling"
+  }
+ ]
+}

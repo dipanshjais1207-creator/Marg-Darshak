@@ -1,0 +1,198 @@
+{
+  "bca-bsc-cs": {
+    "careerId": "bca-bsc-cs",
+    "title": "90-Day Actionable Roadmap: Software Development & Data Analyst Track",
+    "phase1": {
+      "days": "Days 1 to 30",
+      "name": "Phase 1: Foundations & Core Logic",
+      "weeklyHours": "12-14 hours / week",
+      "focus": "Master Python syntax, basic problem-solving, and foundational Git version control.",
+      "resources": [
+        { "title": "Programming for Everybody (Python)", "platform": "Coursera / SWAYAM / freeCodeCamp", "query": "freecodecamp python for beginners full course" },
+        { "title": "Git & GitHub Beginner Tutorial", "platform": "YouTube / freeCodeCamp", "query": "git github tutorial freecodecamp hindi" },
+        { "title": "Basic Maths & Problem Solving", "platform": "NCERT Class 10/11 Statistics & Discrete Logic", "query": "ncert epathshala class 10 statistics" }
+      ],
+      "milestone": "Write 20 standalone Python scripts solving loops, string manipulations, and push all 20 into a public GitHub repository."
+    },
+    "phase2": {
+      "days": "Days 31 to 60",
+      "name": "Phase 2: Practice & Practical Projects",
+      "weeklyHours": "14-16 hours / week",
+      "focus": "Learn Relational Databases (SQL) and build your first full-stack CRUD or analytical web app.",
+      "resources": [
+        { "title": "SQL Tutorial - Full Database Course for Beginners", "platform": "freeCodeCamp / W3Schools", "query": "freecodecamp sql tutorial 4 hours" },
+        { "title": "Building Web Applications with Flask/Express", "platform": "YouTube / MDN Web Docs", "query": "flask web development beginner crash course" },
+        { "title": "HackerRank SQL Practice", "platform": "HackerRank (Free)", "query": "hackerrank sql practice 10 questions" }
+      ],
+      "milestone": "Solve 15 SQL query challenges on HackerRank and build a simple student record tracker or expense dashboard."
+    },
+    "phase3": {
+      "days": "Days 61 to 90",
+      "name": "Phase 3: Proof, Portfolio & First Applications",
+      "weeklyHours": "15-18 hours / week",
+      "focus": "Deploy a finished project live on Vercel/Render, polish your LinkedIn/GitHub, and prepare for entrance (CUET/NIMCET) or internships.",
+      "resources": [
+        { "title": "Portfolio Website & Resume Building for Developers", "platform": "GitHub Pages / LinkedIn Learning", "query": "developer resume for freshers no experience" },
+        { "title": "Previous-Year Papers for NIMCET / BCA Entrance", "platform": "Official NIMCET portal / state CET archives", "query": "nimcet previous year papers pdf" },
+        { "title": "National Career Service (NCS) Portal", "platform": "ncs.gov.in", "query": "ncs portal registration free" }
+      ],
+      "milestone": "Publish 1 live interactive web app on GitHub Pages/Render and submit 3 internship/college admission forms."
+    }
+  },
+  "ssc-cgl": {
+    "careerId": "ssc-cgl",
+    "title": "90-Day Actionable Roadmap: SSC CGL (Inspector & Assistant Section Officer)",
+    "phase1": {
+      "days": "Days 1 to 30",
+      "name": "Phase 1: Syllabus Mapping & Arithmetic Foundations",
+      "weeklyHours": "15-20 hours / week",
+      "focus": "Cover Class 10 arithmetic fundamentals (Percentages, Profit-Loss, Ratio), basic reasoning puzzles, and daily editorial reading.",
+      "resources": [
+        { "title": "NCERT Mathematics (Class 8 to 10)", "platform": "ePathshala / NCERT Official", "query": "ncert epathshala class 10 mathematics pdf" },
+        { "title": "Daily English Reading & Vocabulary (The Hindu/Indian Express)", "platform": "PIB / Press Information Bureau & News Apps", "query": "pib press releases daily digest" },
+        { "title": "SSC CGL Previous Year Question Bank (Tier 1)", "platform": "ssc.gov.in archives / RWA / Testbook Free Papers", "query": "ssc cgl tier 1 previous year paper 2023 2024" }
+      ],
+      "milestone": "Complete 300 arithmetic practice questions and solve 3 previous-year Tier-1 reasoning papers with 80%+ accuracy."
+    },
+    "phase2": {
+      "days": "Days 31 to 60",
+      "name": "Phase 2: Timed Mock Tests & Advanced Quantitative Aptitude",
+      "weeklyHours": "20-22 hours / week",
+      "focus": "Geometry, Trigonometry, English grammar rules (Subject-Verb agreement, Active-Passive, Direct-Indirect), and general awareness revision.",
+      "resources": [
+        { "title": "Lucent's General Knowledge / NCERT Indian Polity & Modern History", "platform": "Standard Reference / ePathshala", "query": "ncert modern history class 12 summary" },
+        { "title": "Speed Maths & Calculation Techniques", "platform": "YouTube Free Lectures (Abhinay Maths / Rakesh Yadav)", "query": "ssc cgl speed calculation tricks" },
+        { "title": "English Grammar Rule Sheets for SSC", "platform": "Neetu Singh English Vol 1 Free Summaries", "query": "ssc english 120 grammar rules" }
+      ],
+      "milestone": "Score 110+ marks on 5 full-length timed 60-minute Tier-1 mock tests and catalog every error in a dedicated revision notebook."
+    },
+    "phase3": {
+      "days": "Days 61 to 90",
+      "name": "Phase 3: Proof, Exam Stamina & Plan B Parallel Preparation",
+      "weeklyHours": "22-25 hours / week",
+      "focus": "Full exam simulation, negative marking elimination, daily typing test practice (30 wpm), and parallel Bank Clerk/RRB form filing.",
+      "resources": [
+        { "title": "Official SSC Mock Test Platform", "platform": "ssc.gov.in portal", "query": "ssc cbt interface sample practice test" },
+        { "title": "Typing Practice (Junior Clerk & JSA eligibility)", "platform": "Typing Master / 10FastFingers (Free)", "query": "10fastfingers typing test english" },
+        { "title": "Current Affairs 6-Month Marathon Compilations", "platform": "Drishti IAS / AffairsCloud / Monthly PDF Digests", "query": "monthly current affairs compilation for ssc cgl" }
+      ],
+      "milestone": "Achieve 35 words per minute typing speed and score 130+ on 3 consecutive full-length mocks under exact exam timing."
+    }
+  },
+  "upsc-civil-services": {
+    "careerId": "upsc-civil-services",
+    "title": "90-Day Actionable Roadmap: UPSC Civil Services (IAS/IPS Foundation) + Plan B",
+    "phase1": {
+      "days": "Days 1 to 30",
+      "name": "Phase 1: NCERT Static Base & Newspaper Reading Habit",
+      "weeklyHours": "20-25 hours / week",
+      "focus": "Read NCERT Class 6–10 History, Geography, and Polity thoroughly. Understand the UPSC syllabus verbatim.",
+      "resources": [
+        { "title": "NCERT ePathshala Digital Textbooks", "platform": "epathshala.nic.in", "query": "epathshala ncert class 6 to 10 social science" },
+        { "title": "Indian Polity by M. Laxmikanth (Fundamental Rights & DPSP chapters)", "platform": "Standard Text / SWAYAM Constitutional Law", "query": "indian constitution fundamental rights summary" },
+        { "title": "The Hindu / The Indian Express Explained Page", "platform": "Official Newspaper Websites / PRS Legislative Research", "query": "prs legislative research monthly policy review" }
+      ],
+      "milestone": "Finish reading NCERT Polity (Class 9-11) and write 1-page daily summaries of 15 editorial issues."
+    },
+    "phase2": {
+      "days": "Days 31 to 60",
+      "name": "Phase 2: CSAT Preparation & Previous-Year Prelims Questions (PYQs)",
+      "weeklyHours": "22-26 hours / week",
+      "focus": "Solve 10 years of UPSC Prelims PYQs for Polity and Modern India. Practice CSAT Reading Comprehension and Reasoning to avoid CSAT failure.",
+      "resources": [
+        { "title": "UPSC Official Previous Year Question Papers (2014-2024)", "platform": "upsc.gov.in / Archives", "query": "upsc previous question papers civil services prelims" },
+        { "title": "CSAT Paper II Aptitude & Quantitative Lectures", "platform": "YouTube (Free Unacademy / InsightsIAS CSAT)", "query": "upsc csat paper 2 free course basics" },
+        { "title": "Yojana and Kurukshetra Magazines", "platform": "Publications Division (publicationsdivision.nic.in)", "query": "yojana magazine latest issue pdf free" }
+      ],
+      "milestone": "Solve 500 UPSC Prelims PYQs with detailed option analysis and score at least 45% on CSAT Paper II mock."
+    },
+    "phase3": {
+      "days": "Days 61 to 90",
+      "name": "Phase 3: Answer Writing Basics & Active Plan B Activation",
+      "weeklyHours": "25 hours / week",
+      "focus": "Begin structured 150-word answer writing (Introduction-Body-Conclusion) and register for parallel exams (State PCS / SSC CGL) to maintain a safety net.",
+      "resources": [
+        { "title": "Insights on India / Secure 2025 Answer Writing Initiative", "platform": "InsightsonIndia.com (Free)", "query": "daily answer writing insights on india" },
+        { "title": "PIB Daily Summary (Press Information Bureau)", "platform": "pib.gov.in", "query": "pib daily summary for civil services" },
+        { "title": "State PSC Official Notification Check", "platform": "bpsc.bih.nic.in / uppsc.up.nic.in", "query": "state pcs exam schedule current year" }
+      ],
+      "milestone": "Write 20 standard GS answers reviewed against model answers, and complete enrollment in your Plan B degree/exam pipeline."
+    }
+  },
+  "chartered-accountant-ca": {
+    "careerId": "chartered-accountant-ca",
+    "title": "90-Day Actionable Roadmap: CA Foundation & Intermediate Prep",
+    "phase1": {
+      "days": "Days 1 to 30",
+      "name": "Phase 1: Accounting Principles & Mercantile Law",
+      "weeklyHours": "16-20 hours / week",
+      "focus": "Master double-entry accounting, bank reconciliation, depreciation, and Indian Contract Act basics.",
+      "resources": [
+        { "title": "ICAI Official Study Material (Foundation)", "platform": "icai.org BoS Knowledge Portal", "query": "icai bos knowledge portal foundation study material" },
+        { "title": "Accounting Fundamentals Lectures", "platform": "YouTube (CA Parag Gupta / Unacademy CA Foundation)", "query": "ca foundation accounting free lectures full syllabus" },
+        { "title": "Business Laws Case Law Summaries", "platform": "ICAI RTP (Revision Test Papers)", "query": "icai foundation business laws rtp latest" }
+      ],
+      "milestone": "Solve all illustrations and end-of-chapter practical problems for the first 5 ICAI accounting modules."
+    },
+    "phase2": {
+      "days": "Days 31 to 60",
+      "name": "Phase 2: Quantitative Aptitude & Economics",
+      "weeklyHours": "18-22 hours / week",
+      "focus": "Mathematics (Time Value of Money, Permutations), Logical Reasoning, and Business Economics concepts.",
+      "resources": [
+        { "title": "ICAI Mathematics & Logical Reasoning Modules", "platform": "icai.org", "query": "icai foundation maths time value of money questions" },
+        { "title": "Microeconomics & Macroeconomics Revision", "platform": "NCERT Class 12 Economics / ICAI Modules", "query": "business economics ca foundation revision" }
+      ],
+      "milestone": "Solve 200 Time Value of Money problems and 100 Business Economics MCQs with 85%+ accuracy."
+    },
+    "phase3": {
+      "days": "Days 61 to 90",
+      "name": "Phase 3: Mock Tests & Articleship Research",
+      "weeklyHours": "20-25 hours / week",
+      "focus": "Timed practice on ICAI Mock Test Papers (MTP) and research articleship firms.",
+      "resources": [
+        { "title": "ICAI Mock Test Papers (Series 1 & 2)", "platform": "icai.org BoS Portal", "query": "icai foundation mtp series with suggested answers" },
+        { "title": "Previous Year ICAI Exam Papers", "platform": "icai.org archives", "query": "ca foundation previous year question papers" }
+      ],
+      "milestone": "Attempt 4 full-length 3-hour ICAI Foundation mock papers under strict exam conditions and achieve passing aggregate."
+    }
+  },
+  "bank-po": {
+    "careerId": "bank-po",
+    "title": "90-Day Actionable Roadmap: Bank PO (IBPS / SBI PO)",
+    "phase1": {
+      "days": "Days 1 to 30",
+      "name": "Phase 1: Speed Arithmetic & Core Reasoning Puzzles",
+      "weeklyHours": "15-18 hours / week",
+      "focus": "Simplification, Quadratic Equations, Number Series, and basic seating arrangement puzzles.",
+      "resources": [
+        { "title": "Vedic Maths & Speed Calculation Series", "platform": "YouTube Free (Adda247 / Bankersway)", "query": "speed maths tricks for banking exams" },
+        { "title": "Reasoning Floor & Linear Puzzles Basics", "platform": "YouTube (Ankush Lamba / Puneet Sharma)", "query": "bank po seating arrangement basic tricks" },
+        { "title": "Banking Awareness Static Notes", "platform": "RBI Website FAQ / Banking Awareness Free PDF", "query": "rbi functions monetary policy static banking awareness pdf" }
+      ],
+      "milestone": "Solve 50 speed calculation questions in under 25 minutes and crack 30 standard floor/box puzzles."
+    },
+    "phase2": {
+      "days": "Days 31 to 60",
+      "name": "Phase 2: Data Interpretation (DI) & English Reading Speed",
+      "weeklyHours": "18-20 hours / week",
+      "focus": "Tabular, Bar, Pie, and Caselet DI. Read daily financial news for Cloze tests and Reading Comprehension.",
+      "resources": [
+        { "title": "High-Level DI Playlist for Bank PO", "platform": "YouTube (Harshal Agrawal / Learning Capsules)", "query": "bank po data interpretation basic to advanced playlist" },
+        { "title": "Financial Express / Mint Editorial Reading", "platform": "Financial News Apps", "query": "mint daily editorial analysis" }
+      ],
+      "milestone": "Complete 40 complex DI sets and solve 10 full Prelims English section tests with 75%+ score."
+    },
+    "phase3": {
+      "days": "Days 61 to 90",
+      "name": "Phase 3: Full Prelims Speed Mocks & Mains Descriptive Writing",
+      "weeklyHours": "20-22 hours / week",
+      "focus": "Daily 60-minute Prelims sectional tests, Mains level puzzle solving, and formal letter/essay typing.",
+      "resources": [
+        { "title": "IBPS PO Free Full-Length Mock Tests", "platform": "Oliveboard / PracticeMock Free Tests", "query": "ibps po free mock test online" },
+        { "title": "Banking Letter and Essay Writing Guide", "platform": "Descriptive English Banking Guide", "query": "sbi po descriptive paper format letter essay" }
+      ],
+      "milestone": "Consistently clear the sectional cut-off in 10 consecutive full mocks and type 1 formal banking letter within 15 minutes."
+    }
+  }
+}
